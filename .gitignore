@@ -1,0 +1,13 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.srcs/sources_1/bd/
+*.xpr
+*.bit
+*.ltx
